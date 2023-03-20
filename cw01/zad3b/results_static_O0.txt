@@ -1,0 +1,62 @@
+[LIB TEST]>> TIME TAKEN:
+REAL: 10000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> MakefileTIME TAKEN:
+REAL: 21692000ns
+USER: 0ticks
+SYSTEM: 1ticks
+[LIB TEST]>> dllmanager.hTIME TAKEN:
+REAL: 12112000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> libzad1.cTIME TAKEN:
+REAL: 10200000ns
+USER: 1ticks
+SYSTEM: 1ticks
+[LIB TEST]>> libzad1.hTIME TAKEN:
+REAL: 9155000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> libzad1_so.hTIME TAKEN:
+REAL: 8285000ns
+USER: 0ticks
+SYSTEM: 1ticks
+[LIB TEST]>> replzad2.cTIME TAKEN:
+REAL: 7620000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>>       79     242    1944 Makefile
+
+TIME TAKEN:
+REAL: 2000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>>       24      74     857 dllmanager.h
+
+TIME TAKEN:
+REAL: 1000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>>       91     151    2178 libzad1.c
+
+TIME TAKEN:
+REAL: 1000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> TIME TAKEN:
+REAL: 1000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> TIME TAKEN:
+REAL: 1000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> TIME TAKEN:
+REAL: 2000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> TIME TAKEN:
+REAL: 0ns
+USER: 0ticks
+SYSTEM: 0ticks

@@ -1,0 +1,4 @@
+Niestety w zadaniu 3b kompilator nie pozwalał mi na kompilację z przełącznikami -o.
+Poprzednie zadania zostały zrobione, zauważyć można, że najszybsza jest biblioteka statyczna, ponieważ jest na stałe
+zlinkowana z plikiem wykonywalnym. Biblioteki shared i dynamic były wolniejsze i miały porównywalne czasy.
+Zestaw zrobiony na 75%.

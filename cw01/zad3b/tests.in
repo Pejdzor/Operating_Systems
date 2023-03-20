@@ -1,0 +1,14 @@
+init 40
+count Makefile
+count dllmanager.h
+count libzad1.c
+count libzad1.h
+count libzad1_so.h
+count replzad2.c
+show 0
+show 1
+show 2
+delete 2
+delete 2
+destroy
+quit

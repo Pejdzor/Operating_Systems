@@ -1,0 +1,9 @@
+[LIB TEST]>> TIME TAKEN:
+REAL: 19000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> MakefileTIME TAKEN:
+REAL: 18329000ns
+USER: 0ticks
+SYSTEM: 0ticks
+[LIB TEST]>> 
